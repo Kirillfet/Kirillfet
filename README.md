@@ -52,8 +52,8 @@
 
 ## 📫 How to Reach Me
 
-- 📧 **Email**: 502727@edu.spbstu.ru
-- 💼 **GitHub**: [@Kinlike](https://github.com/Kinlike)
+- 📧 **Email**: fetkokir1@mail.ru
+- 💼 **GitHub**: [@Kirillfet](https://github.com/Kinlike)
 - 🏫 **University**: ITMO, Saint-Petersburg
 
 ---
